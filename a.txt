@@ -1,4 +1,5 @@
 init...
 hello second  
 hello
-4444worlda
+4444world
+local  a
